@@ -1,0 +1,90 @@
+{
+  "users": {
+    "6285717062467@s.whatsapp.net": {
+      "exp": 717,
+      "limit": null,
+      "saldo": 0,
+      "transaksi": 0,
+      "deposit": 0,
+      "money": 10000,
+      "donate": 0,
+      "jadibot": 0,
+      "expired": 0,
+      "registered": false,
+      "donatur": false,
+      "name": {},
+      "age": "-",
+      "jid": "",
+      "regTime": 0,
+      "banned": false,
+      "premium": true,
+      "level": 1,
+      "role": "Nothing !",
+      "warn": 0,
+      "moderator": true,
+      "online": 1731417876809,
+      "hit": null
+    },
+    "6289527585185@s.whatsapp.net": {
+      "exp": 374,
+      "limit": 50,
+      "saldo": 0,
+      "transaksi": 0,
+      "deposit": 0,
+      "money": 10000,
+      "donate": 0,
+      "jadibot": 0,
+      "expired": 0,
+      "registered": false,
+      "donatur": false,
+      "name": "Eq",
+      "age": "-",
+      "jid": "",
+      "regTime": 0,
+      "banned": false,
+      "premium": false,
+      "level": 1,
+      "role": "Nothing !",
+      "warn": 0,
+      "online": 1731417888505,
+      "hit": null
+    }
+  },
+  "chats": {
+    "6285717062467@s.whatsapp.net": {
+      "welcome": "Selamat datang Kak %member 👋🏻",
+      "antiLink": false,
+      "antiBot": false,
+      "whitelist": false,
+      "sewa": false,
+      "autodl": false,
+      "mute": false,
+      "member": [],
+      "chat": 0,
+      "expired": 0,
+      "leave": "Selamat tinggal Kak %member 🥀"
+    },
+    "6289527585185@s.whatsapp.net": {
+      "welcome": "Selamat datang Kak %member 👋🏻",
+      "antiLink": false,
+      "antiBot": false,
+      "whitelist": false,
+      "sewa": false,
+      "autodl": false,
+      "mute": false,
+      "member": [],
+      "chat": 0,
+      "expired": 0,
+      "leave": "Selamat tinggal Kak %member 🥀"
+    }
+  },
+  "stats": {},
+  "msgs": {},
+  "sticker": {},
+  "openai": {},
+  "settings": {
+    "blockcmd": [],
+    "start": 0
+  },
+  "respon": {}
+}
